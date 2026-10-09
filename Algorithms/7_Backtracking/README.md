@@ -21,7 +21,6 @@
 | **79** | [Word Search](https://leetcode.com/problems/word-search/) | 🟡 Medium | 🙂 | 🙂 |
 | **401** | [Binary Watch](https://leetcode.com/problems/binary-watch/) | 🟢 Easy |  |  |
 | **22** | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | 🟡 Medium |  |  |
-| **60** | [Permutation Sequence](https://leetcode.com/problems/permutation-sequence/) | 🔴 Hard |  |  |
 | **306** | [Additive Number](https://leetcode.com/problems/additive-number/) | 🟡 Medium |  |  |
 | **842** | [Split Array into Fibonacci Sequence](https://leetcode.com/problems/split-array-into-fibonacci-sequence/) | 🟡 Medium |  |  |
 | **1240** | [Tiling a Rectangle with the Fewest Squares](https://leetcode.com/problems/tiling-a-rectangle-with-the-fewest-squares/) | 🔴 Hard |  |  |
