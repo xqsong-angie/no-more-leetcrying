@@ -22,6 +22,6 @@
 | **56** | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | 🟡 Medium | ✅ | ✅ |
 | **738** | [Monotone Increasing Digits](https://leetcode.com/problems/monotone-increasing-digits/) | 🟡 Medium | 🙂 | 🙂 |
 | **968** | [Binary Tree Cameras](https://leetcode.com/problems/binary-tree-cameras/) | 🔴 Hard | ❌ | ❌ |
-| **621** | [Task Scheduler](https://leetcode.com/problems/task-scheduler/) | 🟡 Medium |  |  |
-| **44** | [Wildcard Matching](https://leetcode.com/problems/wildcard-matching/) | 🔴 Hard |  |  |
-| **1147** | [Longest Chunked Palindrome Decomposition](https://leetcode.com/problems/longest-chunked-palindrome-decomposition/) | 🔴 Hard |  |  |
+| **621** | [Task Scheduler](https://leetcode.com/problems/task-scheduler/) | 🟡 Medium | ❌ | ❌ |
+| **44** | [Wildcard Matching](https://leetcode.com/problems/wildcard-matching/) | 🔴 Hard | ❌ | ❌ |
+| **1147** | [Longest Chunked Palindrome Decomposition](https://leetcode.com/problems/longest-chunked-palindrome-decomposition/) | 🔴 Hard | ❌ |❌  |
