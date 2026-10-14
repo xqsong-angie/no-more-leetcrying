@@ -42,10 +42,10 @@
 | **516** | [Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/) | 🟡 Medium | ❌ | ❌ |
 | **152** | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | 🟡 Medium | 🙂 | 🙂 |
 | **256** | [Paint House](https://leetcode.com/problems/paint-house/) | 🟡 Medium | ✅ | ✅ |
-| **64** | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | 🟡 Medium |  |  |
-| **97** | [Interleaving String](https://leetcode.com/problems/interleaving-string/) | 🟡 Medium |  |  |
-| **120** | [Triangle](https://leetcode.com/problems/triangle/) | 🟡 Medium |  |  |
-| **174** | [Dungeon Game](https://leetcode.com/problems/dungeon-game/) | 🔴 Hard |  |  |
+| **64** | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | 🟡 Medium | ✅  | ✅  |
+| **97** | [Interleaving String](https://leetcode.com/problems/interleaving-string/) | 🟡 Medium | ❌ | ❌ |
+| **120** | [Triangle](https://leetcode.com/problems/triangle/) | 🟡 Medium | 🙂  | 🙂  |
+| **174** | [Dungeon Game](https://leetcode.com/problems/dungeon-game/) | 🔴 Hard |❌  | ❌ |
 | **221** | [Maximal Square](https://leetcode.com/problems/maximal-square/) | 🟡 Medium |  |  |
 | **464** | [Can I Win](https://leetcode.com/problems/can-i-win/) | 🟡 Medium |  |  |
 | **87** | [Scramble String](https://leetcode.com/problems/scramble-string/) | 🔴 Hard |  |  |
