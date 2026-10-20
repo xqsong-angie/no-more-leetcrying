@@ -48,13 +48,13 @@
 | **174** | [Dungeon Game](https://leetcode.com/problems/dungeon-game/) | 🔴 Hard |❌  | ❌ |
 | **221** | [Maximal Square](https://leetcode.com/problems/maximal-square/) | 🟡 Medium |🙂  |🙂  |
 | **464** | [Can I Win](https://leetcode.com/problems/can-i-win/) | 🟡 Medium | ❌ |❌  |
-| **87** | [Scramble String](https://leetcode.com/problems/scramble-string/) | 🔴 Hard |  |  |
-| **32** | [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/) | 🔴 Hard |  |  |
-| **727** | [Minimum Window Subsequence](https://leetcode.com/problems/minimum-window-subsequence/) | 🔴 Hard |  |  |
-| **931** | [Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum/) | 🟡 Medium |  |  |
-| **871** | [Minimum Number of Refueling Stops](https://leetcode.com/problems/minimum-number-of-refueling-stops/) | 🔴 Hard |  |  |
-| **91** | [Decode Ways](https://leetcode.com/problems/decode-ways/) | 🟡 Medium |  |  |
-| **403** | [Frog Jump](https://leetcode.com/problems/frog-jump/) | 🔴 Hard |  |  |
+| **87** | [Scramble String](https://leetcode.com/problems/scramble-string/) | 🔴 Hard | ❌ |❌  |
+| **32** | [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/) | 🔴 Hard | 🙂 | 🙂 |
+| **727** | [Minimum Window Subsequence](https://leetcode.com/problems/minimum-window-subsequence/) | 🔴 Hard | ❌ | ❌ |
+| **931** | [Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum/) | 🟡 Medium |✅  | ✅ |
+| **871** | [Minimum Number of Refueling Stops](https://leetcode.com/problems/minimum-number-of-refueling-stops/) | 🔴 Hard | ❌ |❌  |
+| **91** | [Decode Ways](https://leetcode.com/problems/decode-ways/) | 🟡 Medium |❌  | ❌ |
+| **403** | [Frog Jump](https://leetcode.com/problems/frog-jump/) | 🔴 Hard |❌  | ❌ |
 | **338** | [Counting Bits](https://leetcode.com/problems/counting-bits/) | 🟢 Easy |  |  |
 | **265** | [Paint House II](https://leetcode.com/problems/paint-house-ii/) | 🔴 Hard |  |  |
 | **552** | [Student Attendance Record II](https://leetcode.com/problems/student-attendance-record-ii/) | 🔴 Hard |  |  |
