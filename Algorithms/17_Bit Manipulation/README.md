@@ -1,4 +1,4 @@
-### 📊 Bit Manipulation & Backtracking Progress & Bug Tracker
+### 📊 Bit Manipulation Progress & Bug Tracker
 
 | # | Problem Title | Difficulty | Status Log | Current |
 | --- | --- | --- | --- | --- |
