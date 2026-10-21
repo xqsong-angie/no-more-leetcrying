@@ -55,10 +55,10 @@
 | **871** | [Minimum Number of Refueling Stops](https://leetcode.com/problems/minimum-number-of-refueling-stops/) | 🔴 Hard | ❌ |❌  |
 | **91** | [Decode Ways](https://leetcode.com/problems/decode-ways/) | 🟡 Medium |❌  | ❌ |
 | **403** | [Frog Jump](https://leetcode.com/problems/frog-jump/) | 🔴 Hard |❌  | ❌ |
-| **338** | [Counting Bits](https://leetcode.com/problems/counting-bits/) | 🟢 Easy |  |  |
-| **265** | [Paint House II](https://leetcode.com/problems/paint-house-ii/) | 🔴 Hard |  |  |
-| **552** | [Student Attendance Record II](https://leetcode.com/problems/student-attendance-record-ii/) | 🔴 Hard |  |  |
-| **354** | [Russian Doll Envelopes](https://leetcode.com/problems/russian-doll-envelopes/) | 🔴 Hard |  |  |
+| **338** | [Counting Bits](https://leetcode.com/problems/counting-bits/) | 🟢 Easy | ✅  | ✅  |
+| **265** | [Paint House II](https://leetcode.com/problems/paint-house-ii/) | 🔴 Hard | ❌ | ❌ |
+| **552** | [Student Attendance Record II](https://leetcode.com/problems/student-attendance-record-ii/) | 🔴 Hard |❌  | ❌ |
+| **354** | [Russian Doll Envelopes](https://leetcode.com/problems/russian-doll-envelopes/) | 🔴 Hard | ❌ | ❌ |
 | **132** | [Palindrome Partitioning II](https://leetcode.com/problems/palindrome-partitioning-ii/) | 🔴 Hard |  |  |
 | **10** | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/) | 🔴 Hard |  |  |
 | **361** | [Bomb Enemy](https://leetcode.com/problems/bomb-enemy/) | 🟡 Medium |  |  |
