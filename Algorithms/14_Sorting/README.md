@@ -21,7 +21,7 @@
 | **905** | [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/) | 🟢 Easy | ✅ | ✅ |
 | **2418** | [Sort the People](https://leetcode.com/problems/sort-the-people/) | 🟢 Easy | ❌ | ❌ |
 | **253** | [Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/) | 🟡 Medium | ❌ | ❌ |
-| **973** | [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) | 🟡 Medium |  |  |
+| **973** | [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) | 🟡 Medium | ✅ | ✅ |
 | **324** | [Wiggle Sort II](https://leetcode.com/problems/wiggle-sort-ii/) | 🟡 Medium |  |  |
 | **1122** | [Relative Sort Array](https://leetcode.com/problems/relative-sort-array/) | 🟢 Easy |  |  |
 | **493** | [Reverse Pairs](https://leetcode.com/problems/reverse-pairs/) | 🔴 Hard |  |  |
