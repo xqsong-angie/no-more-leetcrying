@@ -59,7 +59,7 @@
 | **265** | [Paint House II](https://leetcode.com/problems/paint-house-ii/) | 🔴 Hard | ❌ | ❌ |
 | **552** | [Student Attendance Record II](https://leetcode.com/problems/student-attendance-record-ii/) | 🔴 Hard |❌  | ❌ |
 | **354** | [Russian Doll Envelopes](https://leetcode.com/problems/russian-doll-envelopes/) | 🔴 Hard | ❌ | ❌ |
-| **132** | [Palindrome Partitioning II](https://leetcode.com/problems/palindrome-partitioning-ii/) | 🔴 Hard |  |  |
+| **132** | [Palindrome Partitioning II](https://leetcode.com/problems/palindrome-partitioning-ii/) | 🔴 Hard | ❌ | ❌ |
 | **10** | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/) | 🔴 Hard |  |  |
 | **361** | [Bomb Enemy](https://leetcode.com/problems/bomb-enemy/) | 🟡 Medium |  |  |
 | **1326** | [Minimum Number of Taps to Open to Water a Garden](https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden/) | 🔴 Hard |  |  |
